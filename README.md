@@ -4,7 +4,7 @@
 
 In 2014, a kid named Cristi was enjoying playing San Andreas Multiplayer. Some of past events made him decide to learn how to create his own SA:MP server. 
 
-So, the twelve years old kid started modifying gamemodes up until the point he mastered the language and started creating his own gamemodes from scratch. 
+So, the twelve year old kid started modifying gamemodes up until the point he mastered the language and started creating his own gamemodes from scratch. 
 
 The code is not perfect, but it was his introduction to programming and computer science.
 
